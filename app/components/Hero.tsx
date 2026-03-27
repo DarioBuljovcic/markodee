@@ -12,7 +12,7 @@ export default function Hero() {
   const heroName = 'MARKODEE';
 
   return (
-    <section className="relative w-full h-screen flex flex-col items-center justify-center border-b border-foreground px-4 text-center overflow-hidden">
+    <section className="relative w-full h-[100dvh] flex flex-col items-center justify-center border-b border-foreground px-4 text-center overflow-hidden">
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full flex justify-center">
         {heroName.split('').map((letter, i) => (
           <span

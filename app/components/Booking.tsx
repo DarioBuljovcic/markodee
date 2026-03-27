@@ -9,11 +9,11 @@ export default function Booking() {
         </p>
         <div className="flex flex-col gap-8 items-center">
           <a
-            href="mailto:booking@markodee.com"
-            className="inline-block font-sans font-bold text-3xl md:text-5xl lg:text-6xl tracking-tighter 
+            href="mailto:deejaymarkodee@gmail.com"
+            className="inline-block font-sans font-bold text-2xl md:text-5xl lg:text-6xl tracking-tighter 
                        hover:text-accent transition-colors duration-300 relative group"
           >
-            BOOKING@MARKODEE.COM
+            DEEJAYMARKODEE@GMAIL.COM
             <div className="absolute -bottom-4 left-0 w-0 h-1 md:h-2 bg-accent group-hover:w-full transition-all duration-500 ease-out" />
           </a>
 
